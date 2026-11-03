@@ -1,16 +1,14 @@
-## Hi there 👋
+# Taeyang Yun
 
-<!--
-**taeyangyun/taeyangyun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m an LLM inference engineer focused on building efficient, optimized serving systems.
 
-Here are some ideas to get you started:
+## What I Do
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Speculative decoding for faster LLM inference
+- Cache management for memory-efficient serving
+- GPU kernel optimization and performance profiling
+
+## Contact
+
+- LinkedIn: [Taeyang Yun](https://www.linkedin.com/in/%ED%83%9C%EC%96%91-%EC%9C%A4-544300261/)
+- Blog: [taeyangyun.github.io](https://taeyangyun.github.io/)
